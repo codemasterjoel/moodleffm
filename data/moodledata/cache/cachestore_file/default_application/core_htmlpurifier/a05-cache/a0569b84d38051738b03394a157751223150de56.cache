@@ -1,0 +1,8 @@
+s:404:"<p>Un mensaje de notificación es enviado a los suscriptores una vez que se ha alcanzado el umbral de notificaciones. Puede incluir cualquiera o ninguno de los siguientes marcadores:</p>
+
+<ul><li>Enlace a la localización del evento {link}</li>
+<li>Enlace al área monitorizada {modulelink}</li>
+<li>Nombre de la regla {rulename}</li>
+<li>Descripción {description}</li>
+<li>Evento {eventname}</li>
+</ul>";

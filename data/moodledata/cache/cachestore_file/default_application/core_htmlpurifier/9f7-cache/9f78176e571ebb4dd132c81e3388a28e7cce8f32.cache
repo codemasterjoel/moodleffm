@@ -1,0 +1,6 @@
+s:614:"<p>Si estan totalmente ocultos los elementos de calificación  o si los nombres de los elementos de calificación ocultos son visibles para los estudiantes.</p>
+
+<ul><li>Mostrar ocultos - Los nombres de los elementos de califiación ocultos se muestran, pero las calificaciones de los estudiante están ocultas</li>
+<li>Sólo se oculta hasta - Los elementos de calificación con "ocultar hasta" la fecha prevista se ocultan por completo hasta la fecha fijada, después de lo cual todo el elemento se muestra</li>
+<li>No mostrar - Los elementos de calificación ocultos grado están completamente ocultos</li>
+</ul>";
