@@ -5,7 +5,7 @@
 		$uri = 'http://';
 	}
 	$uri .= $_SERVER['HTTP_HOST'];
-	header('Location: '.$uri.'/moodleffm/');
+	header('Location: '.$uri.'/htdocs/moodleffm/');
 	exit;
 ?>
 Something is wrong with your MAMP installation :-(
