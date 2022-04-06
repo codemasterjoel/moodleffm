@@ -17,9 +17,9 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8_general_ci',
 );
 
-$CFG->wwwroot   = 'http://localhost:8888/moodleffm';
+$CFG->wwwroot   = 'http://moodleffm.herokuapp.com/htdocs/moodleffm/';
 //$CFG->wwwroot   = 'http://192.168.163.231:8888/moodleffm';
-$CFG->dataroot  = '/Applications/MAMP/data/moodledata';
+$CFG->dataroot  = '/data/moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
